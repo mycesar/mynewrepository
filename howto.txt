@@ -1,0 +1,4 @@
+git init 
+git status
+git add <file> * All the files you want
+git commit -m "<Message>"
